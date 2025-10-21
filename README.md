@@ -73,3 +73,8 @@ cppOnVsCodeEx
 
 > 5. Make file 생성
 > 6. console에서 make 실행
+
+```bash
+user@ProBook440 UCRT64 /c/Users/user/Desktop/dev/cExUsingVsCode/cppOnVsCodeEx
+$ make
+```
