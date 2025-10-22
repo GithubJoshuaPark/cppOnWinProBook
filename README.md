@@ -1,5 +1,40 @@
 # Exercising c++ on Windows os using vsCode
 
+```bash
+This project is a C++ learning sandbox
+designed to run within a Windows environment
+using Visual Studio Code and the MinGW-w64 compiler.
+
+Here's a breakdown of its components and purpose:
+
+Core Application:
+- The heart of the project is a menu-driven console
+  application (main.cpp).
+- It presents an interactive menu to the user,
+  allowing them to select and run different C++ code examples.
+
+Modular Examples:
+- The project is structured to hold examples
+  for various C++ features.
+  Currently, it includes placeholders for:
+
+    1. Data Types (datatypesEx)
+    2. Enumerations (enumEx)
+    3. Preprocessor directives (preProcessEx)
+    4. Bit Manipulation (bitManipulationEx)
+    ...
+
+
+Utilities:
+- A utils module provides helper functions
+  for tasks like clearing the console and printing formatted output.
+
+Setup and Build:
+- The README.md file provides detailed instructions
+  on how to configure the VS Code environment,
+  set up the C/C++ compiler, and build the project using the included Makefile.
+```
+
 [코테용 C++ 핵심 정리](https://www.youtube.com/watch?v=uDq7woPOZ_A)
 
 [ref MinGW (Minimalist GNU Windows) w64 vis MSYS2 설치](https://github.com/niXman/mingw-builds-binaries)
